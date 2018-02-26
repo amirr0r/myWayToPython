@@ -1,0 +1,2 @@
+# myWayToPython
+just some notes
